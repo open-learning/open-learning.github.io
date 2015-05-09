@@ -1,6 +1,11 @@
 # Site navigation links
 
-- title: Articles
-  url: /articles/
-  excerpt: "Open Learning Articles"
+- title: Organization
+  url: /
+  excerpt: "Open Learning Organization"
+  image:
+
+- title: Foundation
+  url: /foundation/
+  excerpt: "Open Learning Foundation"
   image:
