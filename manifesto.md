@@ -13,12 +13,12 @@ author: mikaelkaron
 
 # What
 
-We believe learning should be [libre](en.wikipedia.org/wiki/Libre_(word)) and [open-knowledge](http://en.wikipedia.org/wiki/Open_knowledge). To us this means:
+We believe learning should be [open-knowledge](http://en.wikipedia.org/wiki/Open_knowledge). To us this means:
 
-- [open-source](http://en.wikipedia.org/wiki/Open-source): The software that powers open-learning should be free as in speech and developed in an open and collaborative manner.
-- [open-communication](http://en.wikipedia.org/wiki/Open_communication): The services that powers open-learning should be available for access and integration on an equal basis.
-- [open-content](http://en.wikipedia.org/wiki/Open_content): Everyone should be free to retain, reuse, revise, remix and redistribute open-learning content.
-- [open-data](http://en.wikipedia.org/wiki/Open_data): All data generated on the open-learning platform should be freely available to everyone to use and republish as they wish.
+- [open-source](http://en.wikipedia.org/wiki/Open-source): The software that powers learning should be free as in speech and developed in an open and collaborative manner.
+- [open-communication](http://en.wikipedia.org/wiki/Open_communication): The services that powers learning should be available to access and integrate with on an equal basis.
+- [open-content](http://en.wikipedia.org/wiki/Open_content): Everyone should be free to retain, reuse, revise, remix and redistribute learning content.
+- [open-data](http://en.wikipedia.org/wiki/Open_data): Data generated as the result of learning should be freely available to everyone to use and republish as they wish.
 
 # Why
 
