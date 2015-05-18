@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Latest Posts"
+title: "Latest Postz"
 ---
 
 <div class="tiles">
