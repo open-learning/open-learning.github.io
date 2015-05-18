@@ -3,7 +3,7 @@ layout: article
 title: "The Open-Learning Manifesto"
 excerpt: "What we do and why we do it"
 image:
-  feature: mainfesto-feature.jpg
+  feature: manifesto-feature.jpg
   teaser: manifesto-teaser.jpg
   credit: Céline Kniebihler
   creditlink: http://www.celinek.fr/
