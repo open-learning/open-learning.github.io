@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: Initiative
-description: "The Open Learning Initiative"
+description: "Open-Learning Initiative"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale:
@@ -22,17 +22,17 @@ gems:
 # GitHub Fork Ribbon
 
 ghfr:
-    display: false # false to disable, null for visit, else blob/edit/custom
-    organization: # github organization
-    project: # github project
-    branch: # branch this website is hosted on (master/gh-pages)
+    organization: open-learning
+    project: open-learning.github.io
+    branch: master
+    link: https://github.com/open-learning
     text: Visit on GitHub
     blob: View on GitHub
     edit: Edit on GitHub
 
 # Site owner
 owner:
-  name: Open Learning
+  name: Open-Learning
   email: hello@open-learning.org
   avatar: bio-photo.jpg
   twitter: open-learning
