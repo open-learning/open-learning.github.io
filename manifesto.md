@@ -16,8 +16,6 @@ The way we facilitate learning has not really changed much since the [Platonic A
 
 The [open-learning initiative](http://open-learning.org) wants to accelerate and fuel this by developing the technologies and best-practices needed for an open learning platform and then deploy these into production to establish the first community owned and operated open learning ecosystem. An ecosystem like this will provide a place for authors, teachers and students to interact as well as a tried and scalable platform for the next-generation of ed-tech innovations and services to build on.
 
-We also believe that an ecosystem like this is a crucial part of the solution to many of today's world problems such as poverty and lack of education, so to address this we intend to enable *anyone* in the world with basic internet access and a passion for learning the ability pursue that passion, thus *really* changing the future of individuals, families and nations by providing them with the fundamental tools needed to participate and compete as equals in a global economy. 
-
 # Open
 
 We are strong believers of [open-knowledge](http://en.wikipedia.org/wiki/Open_knowledge) and believe a public learning ecosystem should be built on the foundation of it. To us this means:
@@ -34,3 +32,7 @@ As with open-source where you can inspect the source of your software and trace 
 # Libre
 
 To us, it's important to not only provide a public ecosystem for learning and its technical building blocks, but also to allow anyone to participate in it on their own terms. To allow for this we think the ecosystem must be designed from the ground up to be decentralized and without any central authority. We believe that these are key features that will ultimately provide the ecosystem with more choice of content, teachers and services of better quality at a lower price.
+
+# Universal
+
+We also believe that an ecosystem like this is a crucial part of the solution to many of today's world problems such as poverty and lack of education, so to address this we intend to enable *anyone* in the world with basic internet access and a passion for learning the ability pursue that passion and earn recognized certification for their work, thus *really* changing the future of individuals, families and nations by providing them with the fundamental tools needed to participate and compete as equals in a global economy. 
