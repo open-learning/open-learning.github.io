@@ -8,6 +8,12 @@ ghfr:
     display: blob
 ---
 
+> “Education is the most powerful weapon which you can use to change the world.”
+>
+> — Nelson Mandela <sup>[*cite*](http://www.nelsonmandelas.com/nelson-mandela-university-education.php)</sup>
+
+The above quote is one of the most popular education related quotes on the internet and there's a reason for that - its simple and goes straight to the heart of the problem and presents an obvious solution.
+
 Open-learning was founded in 2015 by me ([Mikael Karon](http://mikael.karon.se)) and my wife [Rose Karon](http://rose.karon.se) after spending three and a half years at [EF Learning Labs](http://labs.ef.com) Shanghai. Having had a first-hand oportunity to experience the demand for learning through EF's customers and seeing just how much access to education can change the lives of people when helping to film a segment of the "Advancing Humanity" feature filmed for the [Atlassian 2013 keynote](https://summit.atlassian.com/archives/2013/general-sessions/keynote-day-one), we've grown a passion for learning.
 
 Both of us have families that have been directly impacted by the sometimes hard choices to choose education over the more obvious choice to make money that could pay for food and shelter. Choices made not further back then a generation or two and we both understand and appreciate the difference those choices have made in our lives.
