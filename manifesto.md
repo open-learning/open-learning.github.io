@@ -25,9 +25,9 @@ We are strong believers of [open-knowledge](http://en.wikipedia.org/wiki/Open_kn
 - [open-content](http://en.wikipedia.org/wiki/Open_content): Everyone should be free to retain, reuse, revise, remix and redistribute learning content.
 - [open-data](http://en.wikipedia.org/wiki/Open_data): Data generated as the result of learning should be freely available to everyone to use and republish as they wish.
 
-# Transparency and Trust
+# Transparent and Trustworthy
 
-As with open-source where you can inspect the source of your software and trace its origins we want give actors in the open-learning ecosystem access to the atomic components of the learning experience. By providing auditable evidence of learning and tutoring, we create a new trust model founded on the [claims based identity](http://en.wikipedia.org/wiki/Claims-based_identity) of authors, students and teachers. We believe this model is superior to the current one where we trust the issuing institution of a certificate (a university) rather than the individuals who create learning materials (authors) and provide guidance and assessment (teachers).
+As with open-source where you can inspect the source of your software and trace its origins we want give actors in the open-learning ecosystem access to the atomic components of the learning experience. By providing independently auditable and taper proof evidence of learning and tutoring, we create a new trust model founded on the [claims based identity](http://en.wikipedia.org/wiki/Claims-based_identity) of authors, students and teachers. We believe this model is superior to the current one where we trust the issuing institution of a certificate (a university) rather than the individuals who create learning materials (authors) and provide guidance and assessment (teachers).
 
 # Libre
 
@@ -35,4 +35,4 @@ To us, it's important to not only provide a public ecosystem for learning and it
 
 # Universal
 
-We also believe that an ecosystem like this is a crucial part of the solution to many of today's world problems such as poverty and lack of education, so to address this we intend to enable *anyone* in the world with basic internet access and a passion for learning the ability pursue that passion and earn recognized certification for their work, thus *really* changing the future of individuals, families and nations by providing them with the fundamental tools needed to participate and compete as equals in a global economy. 
+We believe an open and accessible learning ecosystem is a crucial part of the solution to many of today's world problems such as poverty and lack of education, so to address this we intend to enable *anyone* in the world with basic internet access and a passion for learning the ability pursue that passion and earn recognized certification for their work. By doing this we can *really* change the future of individuals, families and nations for the better by providing them with the fundamental tools needed to participate and compete as equals in a global economy. 
