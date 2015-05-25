@@ -10,7 +10,7 @@ ghfr:
 
 > “Education is the most powerful weapon which you can use to change the world.”
 >
-> — Nelson Mandela <sup>[*cite*](http://www.nelsonmandelas.com/nelson-mandela-university-education.php)</sup>
+> — Nelson Mandela <sup><small>[*cite*](http://www.nelsonmandelas.com/nelson-mandela-university-education.php)</small></sup>
 
 The above quote is one of the most popular education related quotes on the internet and there's a reason for that - its simple and goes straight to the heart of the problem and presents an obvious solution.
 
