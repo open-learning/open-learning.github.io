@@ -3,11 +3,14 @@
 - title: Initiative
   url: /
   excerpt: "Open-Learning Initiative"
+  image: initiative.png
 
 - title: Foundation
-  url: /foundation/
+  url: /foundation
   excerpt: "Open-Learning Foundation"
+  image: foundation.svg
 
 - title: Campus
-  url: /campus/
+  url: /campus
   excerpt: "Open-Learning Campus"
+  image: campus.svg
