@@ -1,7 +1,6 @@
 ---
 layout: archive
 permalink: /
-title: "Open-Learning Initiative"
 image:
   feature: manifesto-feature.jpg
   teaser: manifesto-teaser.jpg
