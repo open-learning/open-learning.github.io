@@ -27,7 +27,7 @@ We are strong believers of [open-knowledge](http://en.wikipedia.org/wiki/Open_kn
 
 # Transparent and Trustworthy
 
-As with open-source where you can inspect the source of your software and trace its origins we want give actors in the open-learning ecosystem access to the atomic components of the learning experience. By providing independently auditable and taper proof evidence of learning and tutoring, we create a new trust model founded on the [claims based identity](http://en.wikipedia.org/wiki/Claims-based_identity) of authors, students and teachers. We believe this model is superior to the current one where we trust the issuing institution of a certificate (a university) rather than the individuals who create learning materials (authors) and provide guidance and assessment (teachers).
+As with open-source where you can inspect the source of your software and trace its origins we want give actors in the open-learning ecosystem access to the atomic components of the learning experience. By providing independently auditable and tamper proof evidence of learning and tutoring, we create a new trust model founded on the [claims based identity](http://en.wikipedia.org/wiki/Claims-based_identity) of authors, students and teachers. We believe this model is superior to the current one where we trust the issuing institution of a certificate (a university) rather than the individuals who create learning materials (authors) and provide guidance and assessment (teachers).
 
 # Libre
 
