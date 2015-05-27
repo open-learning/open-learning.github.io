@@ -1,8 +1,6 @@
 ---
 layout: article
-title: "Open-Learning Manifesto"
-excerpt: "What, why and how"
-tags: [vision]
+title: "Manifesto"
 author: mikaelkaron
 ghfr:
     display: blob
